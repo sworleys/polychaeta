@@ -25,7 +25,7 @@ autoclosemsg = "This issue will be automatically closed in one week unless there
 noautoclosemsg = "This issue will no longer be automatically closed."
 triggerlabel = "autoclose"
 
-pr_greeting_msg = "Thanks for your contribution to FRR!\n\n"
+pr_greeting_msg = "Welcome to the farm.\nThanks for your contribution to FRR!\n\n"
 pr_warn_signoff_msg = "* One of your commits is missing a `Signed-off-by` line; we can't accept your contribution until all of your commits have one\n"
 pr_warn_blankln_msg = "* One of your commits does not have a blank line between the summary and body; this will break `git log --oneline`\n"
 pr_warn_commit_msg = (
